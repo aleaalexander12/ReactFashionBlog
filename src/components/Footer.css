@@ -1,0 +1,12 @@
+.footerNavLink {
+    color: tomato;
+    text-decoration: none;
+}
+
+footer p{
+    color: lightgray;
+}
+
+footer {
+    padding: 1rem 2rem;
+}
